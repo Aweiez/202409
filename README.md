@@ -1,6 +1,6 @@
 #  Brainstorming for Community Mapping Challenge
 ## Math Equation
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+A E = mc^2 B
 
 ## Syntax Highlighting
 ``` python
