@@ -1,8 +1,10 @@
 #  Brainstorming for Community Mapping Challenge
 ## Math Equation
-``` python
-\frac{x^2 - 3}{x^2 + 2x - 9}
-```
+### inline equation 
+iweufhjiowaef $`E=mc^2`$wqoidjioaweafwepo;
+
+### independent line equation
+$$ E=mc^2 $$
 
 ## Syntax Highlighting
 ``` python
