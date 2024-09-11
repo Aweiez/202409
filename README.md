@@ -17,3 +17,6 @@ def greetings():
 |:-:|:--|--:|
 |edjoiwjeodi|lajsdoiw|jawd;oijdsaoid|
 |dwajiosjdoiwaj|waijdsoidj|dawkjsdoiwdaj|
+
+## Links
+[KAS](https://kas.tw)
