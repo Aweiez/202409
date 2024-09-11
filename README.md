@@ -1,7 +1,11 @@
 #  Brainstorming for Community Mapping Challenge
-## A first-level heading
-## A second-level heading
-## A third-level heading
+## syntax highlighting
+``` python
+def greetings():
+  print("Hello world!")
+```
+def greetings():
+## A table
 |th1|th2|th3|
 |:-:|:--|--:|
 |edjoiwjeodi|lajsdoiw|jawd;oijdsaoid|
