@@ -19,4 +19,4 @@ def greetings():
 |dwajiosjdoiwaj|waijdsoidj|dawkjsdoiwdaj|
 
 ## Links
-[KAS](https://kas.tw)
+[Youtube](https://youtube.com)
