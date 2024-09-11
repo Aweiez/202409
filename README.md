@@ -22,7 +22,5 @@ def greetings():
 [Youtube](https://youtube.com)
 
 ## Images
-```
 ![dawg](https://i1.sndcdn.com/avatars-000471603732-61jlua-t240x240.jpg)
 
-```
